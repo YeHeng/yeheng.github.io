@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yeheng.github.io</id>
     <title>越夜越精神</title>
-    <updated>2019-12-01T03:41:40.410Z</updated>
+    <updated>2020-02-02T04:57:00.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yeheng.github.io"/>
     <link rel="self" href="https://yeheng.github.io/atom.xml"/>
     <subtitle>越夜越精神</subtitle>
     <logo>https://yeheng.github.io/images/avatar.png</logo>
     <icon>https://yeheng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 越夜越精神</rights>
+    <rights>All rights reserved 2020, 越夜越精神</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yeheng.github.io/post/hello-gridea</id>
